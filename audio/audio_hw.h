@@ -22,10 +22,6 @@
 #define CARD_DEFAULT  0
 
 #define PORT_PLAYBACK 0
-#define PORT_MODEM    1
-#define PORT_BT       2
-#define PORT_CAPTURE  3
-
 #define PCM_WRITE pcm_write
 
 #define PLAYBACK_PERIOD_SIZE  880
